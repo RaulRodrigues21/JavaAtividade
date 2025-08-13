@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atv10 {
+public class atividade10 {
     public static void main(String[] args) {
     	
         Scanner scan = new Scanner(System.in);
@@ -23,4 +23,5 @@ public class atv10 {
         
         scan.close();
     }
+
 }
