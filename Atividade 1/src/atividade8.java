@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atv8 {
+public class atividade8 {
 
 	public static void main(String[] args) {
 
@@ -36,3 +36,4 @@ public class atv8 {
 		    }
 
 }
+
